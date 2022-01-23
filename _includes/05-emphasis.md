@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*這個是斜體*
+
+_這個是斜體_
+
+**這個是粗體**
+
+__這個是粗體__
+
+*在斜體裏面**有個粗體**耶:heart:*
